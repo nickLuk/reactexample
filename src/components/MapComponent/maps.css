@@ -1,0 +1,17 @@
+.table{
+   width: 725px;
+   height: 430px; 
+}
+.mark{
+   width: 15px;
+   height: 15px;
+   border-radius: 50%;
+   background-color: green;
+}
+.markTerm{
+   width: 15px;
+   height: 15px;
+   border-radius: 50%;
+   background-color: blue;
+  /*background-image: url(./img/terminal.png);*/
+}

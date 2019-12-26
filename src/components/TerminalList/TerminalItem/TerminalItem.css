@@ -1,0 +1,77 @@
+.panel {
+  background: rgb(196, 218, 202);
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+.thumb-lg{
+  border-radius: 50%;
+} 
+ul{
+  padding-bottom: 15px;
+  float: left;
+}
+ul li{      
+display: inline;
+
+}
+li{
+  padding-right: 0.45%;
+  padding-left: 1.5%;
+}
+.butt{
+  padding-right: 1.5%;
+}
+
+.media-main a.pull-left {
+  width: 100px;
+  margin-left: 1.5%;
+}
+.star{
+position: absolute;
+left: 170%;
+top:17%;
+font-size: 20px;
+color:grey;
+
+}
+.starIns{
+position: absolute;
+font-size: 20px;
+left: 170%;
+top:17%;
+color:orange;
+
+}
+.star:hover{
+transform: rotate(50deg);
+}
+.starIns:hover{
+transform: rotate(-50deg);
+}
+.panel-body {
+padding-top: 10px;
+border: solid white 1px;
+}
+
+.panel-bodyHover {
+padding-top: 10px;
+border: solid darkcyan 1px;
+
+}
+
+.fff{
+
+border: solid 2px gray;
+border-radius: 5px;
+background-color: rgb(168, 245, 219);
+font-weight: bolder;
+}
+.one{
+  padding-left: 20px;
+}
+.four{
+  padding-right: 20px;
+}
+p{
+  font-size: 15px;
+}
